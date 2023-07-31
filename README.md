@@ -1,5 +1,5 @@
-Modules needed
-opencv-python
-opencv-contrib-python
-opencv-python-headless
+Modules needed \n
+opencv-python \n
+opencv-contrib-python \n
+opencv-python-headless \n
 numpy
